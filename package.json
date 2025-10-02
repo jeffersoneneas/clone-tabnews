@@ -1,0 +1,16 @@
+{
+  "name": "clone-tabnews",
+  "version": "1.0.0",
+  "description": "Projeto educacional recriando o TabNews do zero. O objetivo é aprender todas as etapas do desenvolvimento de uma aplicação web completa, incluindo backend, frontend, banco de dados, autenticação e deploy.",
+  "main": "index.js",
+  "scripts": {
+    "dev":"next dev"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "next": "^13.1.6",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
